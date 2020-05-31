@@ -1,0 +1,56 @@
+body {
+  background: #ccc;
+}
+
+#Header a:hover {
+  color: #fff;
+}
+
+#bg-img {
+  background: url(Imges/rene-bohmer-YeUVDKZWSZ4-unsplash.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  min-height: 500px;
+}
+
+#about {
+  margin-top: -200px;
+}
+
+#about .fa {
+  color: #fff;
+}
+#about span {
+  padding: 10px 20px 10px 20px;
+}
+
+#about hr {
+  border-width: 2px;
+  margin-top: 6px;
+}
+#skills span {
+  padding: 10px 20px 10px 20px;
+}
+#skills hr {
+  border-width: 2px;
+  margin-top: 6px;
+}
+#expirience span {
+  padding: 10px 20px 10px 20px;
+}
+#expirience hr {
+  border-width: 2px;
+  margin-top: 6px;
+}
+
+#expirience .card {
+  border-top: 3px solid #c0392b;
+}
+
+#contact span {
+  padding: 10px 20px 10px 20px;
+}
+#contact hr {
+  border-width: 2px;
+  margin-top: 6px;
+}
